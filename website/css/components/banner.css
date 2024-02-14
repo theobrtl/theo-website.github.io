@@ -1,0 +1,21 @@
+.banner {
+    background-position: center;
+    padding: 200px 0;
+    
+  }
+  
+  .banner h1 {
+    color: #1EDD88;
+    text-align: center;
+  }
+  
+  .banner p {
+    color: #1EDD88;
+    text-align: center;
+    opacity: .7;
+    font-size: 20px;
+  }
+  
+  .banner a {
+    align-items: center;
+  }

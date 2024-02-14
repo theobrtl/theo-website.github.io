@@ -1,0 +1,35 @@
+@import url(components/banner.css);
+@import url(components/button.css);
+@import url(components/card.css);
+@import url(components/footers.css);
+@import url(components/container.css);
+
+body, html {
+  height: 90%;
+  font-family: courier, monospace;
+}
+
+body {
+  
+  color: #fcfcfc;
+  background-color: #333;
+  padding: 20px;
+  text-justify: justify;
+}
+
+a {
+    text-decoration: none;
+  }
+  
+.text-center {
+    text-align: center;
+  }
+  
+#pres  {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 16px;
+  line-height: 1.5;
+  color: white; 
+  margin-bottom: 20px; 
+}
+   
